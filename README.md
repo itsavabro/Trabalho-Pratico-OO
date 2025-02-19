@@ -1,3 +1,4 @@
 # Trabalho-Pratico-OO
 
-Desenvolvido por João Vitor Vieira - 221022023
+## Componentes
+- João Vitor Vieira : 221022023;
